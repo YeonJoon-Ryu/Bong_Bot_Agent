@@ -1,0 +1,13 @@
+# 가상환경 및 캐시
+.venv/
+__pycache__/
+
+# 환경변수 및 API 키
+.env
+
+# 구글 캘린더 OAuth 인증 파일
+credentials.json
+token.json
+
+# 로그 파일
+chat_history_log.txt
